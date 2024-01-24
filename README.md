@@ -1,6 +1,6 @@
 # talk2pdf
 
-An open-source AI platform that turns your PDF into a conversation partner makes studying fun and effective.
+An open-source AI platform that turns your PDF into a conversation partner makes study fun and effective.
 
 ## Running Locally. Getting started
 
